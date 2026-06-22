@@ -30,7 +30,7 @@ Participants stabilize their head via a chin rest and track a discrete stimulus 
   <img src="ReadMe/r.png" alt="R Task Schema" width="230" style="max-width: 100%; vertical-align: top;">
   <div style="display: inline-block; width: 100px;"></div>
   <div style="display: inline-block; position: relative; vertical-align: top;">
-    <a href="https://www.youtube.com/watch?v=8e9rMN_CNnw">
+    <a href="https://www.youtube.com/watch?v=8e9rMN_CNnw&list=PLQbqwztmTvAVAUClXj-sOkpQ9sBJbT5pG&index=2">
       <img src="https://img.youtube.com/vi/8e9rMN_CNnw/maxresdefault.jpg" alt="R Task Video Playback" height="160" style="max-width: 100%; display: block;">
       <img src="ReadMe/youtube_icon.svg" alt="Play Video" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 50px; pointer-events: none; opacity: 0.95;">
     </a>
@@ -47,7 +47,7 @@ Participants utilize a chin rest to eliminate head rotation while tracking a sti
   <img src="ReadMe/hc.png" alt="R Task Schema" width="230" style="max-width: 100%; vertical-align: top;">
   <div style="display: inline-block; width: 100px;"></div>
   <div style="display: inline-block; position: relative; vertical-align: top;">
-    <a href="https://www.youtube.com/watch?v=SmwadqDaDb4">
+    <a href="https://www.youtube.com/watch?v=SmwadqDaDb4&list=PLQbqwztmTvAVAUClXj-sOkpQ9sBJbT5pG&index=3">
       <img src="https://img.youtube.com/vi/SmwadqDaDb4/maxresdefault.jpg" alt="R Task Video Playback" height="160" style="max-width: 100%; display: block;">
       <img src="ReadMe/youtube_icon.svg" alt="Play Video" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 50px; pointer-events: none; opacity: 0.95;">
     </a>
@@ -62,7 +62,7 @@ Participants sit unconstrained and execute rotational head movements to track a 
   <img src="ReadMe/bc.png" alt="W2 Task Schema" width="230" style="max-width: 100%; vertical-align: top;">
   <div style="display: inline-block; width: 100px;"></div>
   <div style="display: inline-block; position: relative; vertical-align: top;">
-    <a href="https://www.youtube.com/watch?v=XAAg48gus8c">
+    <a href="https://www.youtube.com/watch?v=XAAg48gus8c&list=PLQbqwztmTvAVAUClXj-sOkpQ9sBJbT5pG&index=4">
       <img src="https://img.youtube.com/vi/XAAg48gus8c/maxresdefault.jpg" alt="R Task Video Playback" height="160" style="max-width: 100%; display: block;">
       <img src="ReadMe/youtube_icon.svg" alt="Play Video" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 50px; pointer-events: none; opacity: 0.95;">
     </a>
@@ -77,7 +77,7 @@ Participants navigate an ambulatory circular trajectory around a physical refere
   <img src="ReadMe/wsw.png" alt="W3/WSW Task Schema" width="230" style="max-width: 100%; vertical-align: top;">
   <div style="display: inline-block; width: 100px;"></div>
   <div style="display: inline-block; position: relative; vertical-align: top;">
-    <a href="https://www.youtube.com/watch?v=aTP6IYBDoKY">
+    <a href="https://www.youtube.com/watch?v=aTP6IYBDoKY&list=PLQbqwztmTvAVAUClXj-sOkpQ9sBJbT5pG&index=5">
       <img src="https://img.youtube.com/vi/aTP6IYBDoKY/maxresdefault.jpg" alt="R Task Video Playback" height="160" style="max-width: 100%; display: block;">
       <img src="ReadMe/youtube_icon.svg" alt="Play Video" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 50px; pointer-events: none; opacity: 0.95;">
     </a>
@@ -93,7 +93,7 @@ Participants navigate an ambulatory circular trajectory around a physical refere
   <img src="ReadMe/ssw.png" alt="s4 SSW Task Schema" width="230" style="max-width: 100%; vertical-align: top;">
   <div style="display: inline-block; width: 100px;"></div>
   <div style="display: inline-block; position: relative; vertical-align: top;">
-    <a href="https://www.youtube.com/watch?v=NL6pmvKADMs">
+    <a href="https://www.youtube.com/watch?v=NL6pmvKADMs&list=PLQbqwztmTvAVAUClXj-sOkpQ9sBJbT5pG&index=6">
       <img src="https://img.youtube.com/vi/NL6pmvKADMs/maxresdefault.jpg" alt="R Task Video Playback" height="160" style="max-width: 100%; display: block;">
       <img src="ReadMe/youtube_icon.svg" alt="Play Video" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 50px; pointer-events: none; opacity: 0.95;">
     </a>
@@ -109,7 +109,7 @@ Participants navigate an ambulatory circular trajectory around a physical refere
   <img src="ReadMe/bsw.png" alt="b5 BSW Task Schema" width="230" style="max-width: 100%; vertical-align: top;">
   <div style="display: inline-block; width: 100px;"></div>
   <div style="display: inline-block; position: relative; vertical-align: top;">
-    <a href="https://www.youtube.com/watch?v=as5A5Tq7IDI">
+    <a href="https://www.youtube.com/watch?v=as5A5Tq7IDI&list=PLQbqwztmTvAVAUClXj-sOkpQ9sBJbT5pG&index=13">
       <img src="https://img.youtube.com/vi/as5A5Tq7IDI/maxresdefault.jpg" alt="R Task Video Playback" height="160" style="max-width: 100%; display: block;">
       <img src="ReadMe/youtube_icon.svg" alt="Play Video" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 50px; pointer-events: none; opacity: 0.95;">
     </a>
@@ -124,13 +124,13 @@ Participants navigate a linear trajectory down an open architectural hallway whi
   <img src="ReadMe/h.png" alt="H Task Schema" width="230" style="max-width: 100%; vertical-align: top;">
   <div style="display: inline-block; width: 100px;"></div>
   <div style="display: inline-block; position: relative; vertical-align: top;">
-    <a href="https://www.youtube.com/watch?v=Y3BtgPO-QN0">
+    <a href="https://www.youtube.com/watch?v=Y3BtgPO-QN0&list=PLQbqwztmTvAVAUClXj-sOkpQ9sBJbT5pG&index=7">
       <img src="https://img.youtube.com/vi/Y3BtgPO-QN0/maxresdefault.jpg" alt="R Task Video Playback" height="160" style="max-width: 100%; display: block;">
       <img src="ReadMe/youtube_icon.svg" alt="Play Video" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 50px; pointer-events: none; opacity: 0.95;">
     </a>
   </div>
 </div>
-<p align="center"><em>Figure 3: Spatial paradigm diagram (left) next to the active user trial playback (right).</em></p>
+<p align="center"><em>Figure 7: Spatial paradigm diagram (left) next to the active user trial playback (right).</em></p>
 
 ---
 
