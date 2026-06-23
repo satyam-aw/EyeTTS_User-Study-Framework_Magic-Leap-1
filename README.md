@@ -31,7 +31,7 @@ While each headset requires device-specific implementations due to proprietary S
 
 ---
 
-##  Experimental Task Architecture
+##  Experimental Task Architecture & Coordinate Frames
 
 The framework choreographs seven unique spatial tracking paradigms designed to systematically isolate and evaluate gaze-tracking degradation across variable anatomical and locomotor constraints:
 
